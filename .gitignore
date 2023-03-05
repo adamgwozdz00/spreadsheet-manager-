@@ -1,0 +1,7 @@
+*.htm
+.idea
+credentials.json
+node_modules
+plated-will-335717-52530d17c8a4.json
+.DS_Store
+*.js
